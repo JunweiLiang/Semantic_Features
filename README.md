@@ -1,5 +1,7 @@
 # CMU Video-Level Semantic Features
 
+![alt text](https://aladdin1.inf.cs.cmu.edu/shares/semantic_features.png)
+
 This repository contains the inferencing code and models for this paper:
 
     Po-Yao Huang, Ye Yuan, Zhenzhong Lan, Lu Jiang, and Alexander G. Hauptmann
