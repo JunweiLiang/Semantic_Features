@@ -33,7 +33,7 @@ $ python img2feat.py frames_path.lst inception_resnet_v2 models/inception_resnet
 
 3. Average pooling into video-level CNN features
 ```
-$ python aversgeFeats.py frame_feature_path.lst video_feature_path --l2norm 
+$ python averageFeats.py frame_feature_path.lst video_feature_path --l2norm 
 ```
 
 4. Extract semantic features
