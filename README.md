@@ -7,6 +7,7 @@ This repository contains the inferencing code and models for the following paper
     Po-Yao Huang, Ye Yuan, Zhenzhong Lan, Lu Jiang, and Alexander G. Hauptmann
     "Video Representation Learning and Latent Concept Mining for Large-scale Multi-label Video Classification"
     in arXiv preprint arXiv:1707.01408 (2017).
+    
     Jia Chen, Junwei Liang, Jiang Liu, Shizhe Chen, Chenqiang Gao, Qin Jin, and Alexander Hauptmann. "Informedia@ Trecvid 2017."
 
 
